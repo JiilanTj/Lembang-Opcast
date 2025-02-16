@@ -1,5 +1,9 @@
 # Lembang-Opcast
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/github/workflow/status/JiilanTj/Lembang-Opcast/CI)](https://github.com/JiilanTj/Lembang-Opcast/actions)
+[![GitHub stars](https://img.shields.io/github/stars/JiilanTj/Lembang-Opcast)](https://github.com/JiilanTj/Lembang-Opcast/stargazers)
+
 **Lembang-Opcast** is an open-source screen recording and live streaming application for Linux. It allows users to record their screen and stream content live to various platforms. Whether you're a content creator, gamer, or educator, Lembang-Opcast provides an easy and powerful way to capture your screen and share it with the world.
 
 ## Features
