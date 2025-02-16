@@ -1,0 +1,54 @@
+# Build directory
+build/
+
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+lembang-opcast
+
+# Debug files
+*.dSYM/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Log files
+*.log
+
+# Dependency directories
+deps/
+
+# Backup files
+*~
+*.bak
+
+# Configuration files that might contain sensitive information
+config.ini
+settings.json
+
+# Temporary files
+tmp/
+temp/
+
+# Core dumps
+core 
